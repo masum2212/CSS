@@ -1,0 +1,15 @@
+a{
+    color:#fff;
+}
+a:link{
+    text-decoration: none;
+    background: #333;
+}
+a:hover{
+    background: yellow;
+    color: red;
+}
+a:active{
+    background: green;
+    color: #333;
+}

@@ -1,0 +1,13 @@
+.masum{
+    background: url('../pic/01.jpg') no-repeat center / cover;
+    width:400px;
+    height: 300px;
+    overflow: hidden
+}
+.billah p{
+    text-align: center;
+    background: #fff;
+    padding: 30px;
+    margin-top: 150px;
+    opacity: 0.6;
+}

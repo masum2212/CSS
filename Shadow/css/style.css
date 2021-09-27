@@ -1,0 +1,22 @@
+h2{
+    font-size: 90px;
+    text-align: center;
+    text-shadow: 2px 2px 1px red; /*there are three value 1st one left to right,2nd value top to bottom,and 3rd value how to move area */
+}
+.m1{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid #d4d4d4;
+    box-shadow: 4px 8px 10px rgba(0,0,0,0.2),-5px 5px 10px rgba(0,0.0,0.2);
+}
+.m1 img{
+    width: 100%;
+}
+.m2 h3{
+    margin: 0;
+    font-size: 20px;
+}
+.m2{
+    padding: 10px;
+}

@@ -1,0 +1,18 @@
+.flex{
+    display: flex;
+    align-items: center; /* flex-start,flex-end,stretch */
+/*    justify-content: flex-end;  space-around,space-between */
+/*    flex-wrap: wrap;  nowrap,wrap-reverse */
+/*    flex-direction: column;  column-reverse,row, row-reverse */
+    background: red;
+    padding: 20px;
+    height: 400px;
+}
+.m1{
+    border: 1px solid #f1f1f1;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+    width: 100px;
+}

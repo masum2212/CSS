@@ -1,0 +1,9 @@
+.masum{
+    width: 400px;
+    height: 350px;
+/*    background: linear-gradient(to right bottom, red,green,yellow);*/
+/*    background: linear-gradient(red 50%,green 50%);*/
+/*    background: linear-gradient(rgba(255,0,0,0),rgba(255,0,0,1));*/
+    
+    background: radial-gradient(red,green);
+}

@@ -1,0 +1,6 @@
+.masum{
+    border-width: 5px 10px 15px 20px;
+    border-style: solid dotted inset ridge;
+    border-color: red;
+    border-radius: 5px;
+}

@@ -1,0 +1,73 @@
+#a0 img{
+    height: 80px;
+    width: 80px;
+}
+#a0{
+    display: inline-block;
+    left: 0;
+}
+#a{
+    text-align: center;
+    line-height: 0.5;
+    display: inline-block;
+    position: absolute;
+    margin-left: 450px
+    
+    
+}
+#a1 img{
+    height: 100px;
+    width: 100px;
+}
+#a1{
+    display: inline-block;
+    position: absolute;
+    right: 0
+}
+#b  {
+    text-align: center;
+    line-height: 0.2
+}
+#c{
+    line-height: 0.1;
+    display: inline-block;
+
+}
+#cc{
+    text-align: center;
+}
+#d{
+    display: inline-block;
+    position: absolute;
+    right: 40px;
+}
+#e table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#aa{
+    display: inline-block;
+    text-decoration: overline;
+}
+#bb{
+    display: inline-block;
+    text-decoration: overline;
+    position: absolute;
+    right: 10px;
+}
+#f{
+    line-height: 0.2;
+    display: inline-block;
+}
+#g{
+    line-height: 0.2;
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    text-align: right;
+}
+#x{
+    margin-bottom: 80px;
+}
+

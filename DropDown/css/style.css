@@ -1,0 +1,35 @@
+ul{
+    margin: 0;
+    padding: 0;
+    background: black;
+    overflow: hidden;
+}
+ul li{
+    float: left;
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    padding: 12px 16px;
+    display: inline-block;
+    color: aqua;
+}
+ul li a:hover{
+    background: red;
+}
+.dropbtn{
+    background: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+    display: none;
+    position: absolute;
+}
+.dropbtn a{
+    display: block;
+    color: blue;
+}
+.dropbtn a:hover{
+    background: #f1f1f1;
+}
+.drop:hover .dropbtn{
+    display: block;
+}

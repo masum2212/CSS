@@ -1,0 +1,13 @@
+.m1{
+    width: 100px;
+    height: 50px;
+    background: red;
+    transition: width 1s,transform 1s, height 1s;
+/*    transition-delay: 0.5s;*/
+    transition-timing-function: ease; /* ease-in,ease-out,ease-in-out */
+}
+.m1:hover{
+    width: 200px;
+    height: 200px;
+/*    transform: rotate(180deg);*/
+}

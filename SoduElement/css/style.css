@@ -1,0 +1,9 @@
+p::first-letter{
+    color: red;
+    font-size: 30px;
+}
+p::first-line{
+    color: blue;
+}
+
+/*before, after*/
